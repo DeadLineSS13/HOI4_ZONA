@@ -1,0 +1,17 @@
+version="0.0.1"
+tags={
+	"Alternative History"
+	"Map"
+	"Balance"
+	"Military"
+	"Events"
+	"National Focuses"
+	"Sound"
+	"Gameplay"
+	"Technologies"
+	"Ideologies"
+	"Graphics"
+	"Translation"
+}
+name="ZONA"
+supported_version="1.10.4"
